@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legcy143" alt="legcy143" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [legcy.vercel.app](legcy.vercel.app)
+- 👨‍💻 All of my projects are available at [legcy.vercel.app](https://legcy.vercel.app/)
 
 - 💬 Ask me about **Tech and startups**
 
