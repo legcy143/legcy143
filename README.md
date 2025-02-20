@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,jquery,js,ts,go,rust,terraform,threejs">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,jquery,js,ts,go,rust,terraform,threejs">
 </p>
 
 <p align="center">
@@ -22,7 +22,10 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,nginx,grafana,jenkins,ansible">
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,pug,react,regex,astro,wordpress">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,pug,react,regex,astro,jest">
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=appwrite,wordpress,figma,firebase,androidstudio,codepen,stackoverflow">
 </p>
 
 <p align="center">
