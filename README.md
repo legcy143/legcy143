@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm prince</h1>
+<h1>Hi There 👋, I'm Prince</h1>
 <h3>A passionate fullstack developer with more than 5 year of technical experience from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legcy143&label=Profile%20views&color=0e75b6&style=flat" alt="legcy143" /> </p>
