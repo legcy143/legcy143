@@ -34,3 +34,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vim,unity,linux,ubuntu,debian,postman,vercel,netlify,replit,notion,github">
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=legcy143&theme=dark)](https://git.io/streak-stats)
