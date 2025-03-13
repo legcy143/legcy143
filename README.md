@@ -34,4 +34,3 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vim,unity,linux,ubuntu,debian,postman,vercel,netlify,replit,notion,github">
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legcy143&" alt="legcy143" /></p>
