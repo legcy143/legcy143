@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legcy143&label=Profile%20views&color=0e75b6&style=flat" alt="legcy143" /> </p>
 
-
 - 💬 Ask me about **Tech and startups**
 
 - 📫 How to reach me **legcy143@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
