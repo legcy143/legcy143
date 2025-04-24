@@ -61,16 +61,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Dev Impact & GitHub Stats
+
+<!-- Custom Achievements Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-10+-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Fullstack-blueviolet?style=for-the-badge&logo=stackshare" />
+  <img src="https://img.shields.io/badge/Contributions-500%2B-blue?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Tech%20Community%20Support-Active-orange?style=for-the-badge&logo=handshake" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legcy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Prince%20Raj's%20GitHub%20Stats" width="56%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legcy143&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakNum=ffffff" width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legcy143&layout=donut&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" width="38%" />
 </p>
 
+<!---  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legcy143&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakNum=ffffff" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=legcy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Prince%20Raj's%20GitHub%20Stats" width="56%" />
 </p>
+-->
 
 
 ---
