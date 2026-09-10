@@ -1,102 +1,215 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
-</div>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+
+<br/><br/>
+
+# PRINCE RAJ
+
+### Software Engineer · Full-Stack Developer
+
+Building production-ready web applications, scalable systems, and user-focused digital products.
 
 <br/>
 
-<h1 align="center">Hi 👋 I'm Prince</h1>
-<h3 align="center">🚀 Full-Stack Developer | 5+ Years Experience | Builder of Beautiful & Scalable Tech</h3>
+<a href="mailto:prineraj14644@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/legcy143">
+  <img src="https://img.shields.io/badge/GitHub-legcy143-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About
+
+Full-stack engineer focused on designing and shipping production applications, with experience across frontend development, backend APIs, system architecture, and reusable UI systems.
+
+* Built and deployed event-engagement platforms across **100+ live events**
+* Developed systems serving **2,000–5,000 attendees per event**
+* Comfortable owning features from **architecture and system design through deployment**
+* Strong focus on **Next.js, TypeScript, React, Node.js, and modern web architecture**
+* Built reusable component systems and adopted **Turborepo monorepo architecture** across internal projects
+* Open-source contributor to **Zustand**
+* Interested in **SaaS, AI-powered products, developer tools, and scalable systems**
+
+---
+
+## Core Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
+
+`Next.js` · `React` · `TypeScript` · `TailwindCSS` · `shadcn/ui` · `Framer Motion` · `Zustand`
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
+
+`Node.js` · `FastAPI` · `REST APIs` · `JWT Authentication`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `SQL`
+
+### Cloud, Architecture & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
+</p>
+
+`AWS` · `Docker` · `Linux` · `Git` · `GitHub` · `Postman` · `VS Code` · `Turborepo` · `Razorpay API`
+
+---
+
+## Selected Projects
+
+### Jihva
+
+**Full-Stack Food Ordering Platform**
+
+`Next.js 15` · `TypeScript` · `TailwindCSS` · `shadcn/ui` · `Razorpay` · `JWT` · `Zustand` · `Turborepo`
+
+> Production food-ordering platform designed and built end-to-end.
+
+* Sole architect responsible for the **system architecture, data flow, and component structure**
+* Deployed across **8 shops**
+* Serving **500+ users** and processing **500+ orders**
+* Integrated **Razorpay** for online payments
+* Implemented **JWT-based authentication**
+* Built a real-time admin dashboard for order tracking
+* Authored **30+ reusable UI components** using shadcn/ui and TailwindCSS
+* Implemented **QR-code-based ordering and pickup**
+* Structured the codebase as a scalable **Turborepo monorepo**
+
+---
+
+### Airtel Confluence
+
+**Guest Management System**
+
+`Next.js` · `TypeScript` · `TailwindCSS` · `Framer Motion`
+
+> Real-time guest management platform built for Airtel's flagship Confluence event.
+
+* Supported **400+ attendees**
+* Built a real-time dashboard for **check-ins and seat occupancy**
+* Implemented automated **seat allocation**
+* Added **seat-swap** and **seat-search** functionality
+* Delivered a responsive, animated UI for organizer devices
+* Designed the system to handle live, on-the-ground event changes
+
+---
+
+## Open Source
+
+### Zustand
+
+`TypeScript` · `JavaScript`
+
+Contributed a **merged pull request** to Zustand, a widely used React state-management library.
+
+* Contributed to an active open-source project used across thousands of applications
+* The contribution addressed a bug/feature in production usage
+* **40K+ GitHub stars** at the time of the resume
+
+---
+
+## Experience
+
+### Software Engineer — Quenth
+
+**Nov 2023 – Present · Remote**
+
+Working on event-engagement platforms and interactive digital experiences.
+
+#### Key Areas
+
+* AI PhotoBooth
+* Mosaic experiences
+* AI bots
+* Interactive games
+* Event-engagement platforms
+* Internal tools and reusable UI systems
+
+#### Engineering Impact
+
+| Metric                   |          Impact |
+| :----------------------- | --------------: |
+| Live events              |        **100+** |
+| Attendees per event      | **2,000–5,000** |
+| Production shops — Jihva |           **8** |
+| Jihva users              |        **500+** |
+| Jihva orders             |        **500+** |
+| Reusable UI components   |         **30+** |
+
+---
+
+## Engineering Focus
+
+`Full-Stack Development` · `System Design` · `Scalable Web Applications` · `SaaS` · `AI-Powered Products` · `Developer Tools` · `Open Source`
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="mailto:legcy143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-legcy143@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=legcy143&style=for-the-badge&label=Profile+Views&color=0e75b6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=legcy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legcy143&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Education
 
-- 🔧 **Full-Stack Developer** with **5+ years of experience** in building high-performance applications.
-- 🧠 **Driven by curiosity**, passionate about learning and applying cutting-edge technologies.
-- 🎯 I help **startups and teams** create **scalable**, **secure**, and **user-first** solutions.
-- 💬 Open for discussions on **Tech, SaaS, Startups, and AI**.
-- 📍 Based in **India**, working globally 🌏
-- 📫 Reach out anytime: **legcy143@gmail.com**
+**B.Tech — Computer Science & Engineering**
+Technocrats Institute of Technology · 2022–2026
+
+**NPTEL Elite — Cloud Computing**
+IIT Kharagpur · 2025 · Score: **63%**
 
 ---
 
-## 🧰 Tech Toolbox
+## Connect
 
-### 💡 Languages & Fundamentals  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,go,rust,php,ts,js,html,css,sass" />
-</p>
+Interested in building software, discussing system design, exploring AI, or working on interesting products?
 
-### ⚙️ Backend & API  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,graphql,postgres,mysql,mongodb,redis" />
-</p>
-
-### 🎨 Frontend & UI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,materialui,bootstrap,jquery,pug" />
-</p>
-
-### ☁️ Cloud & DevOps  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,jenkins,ansible,grafana" />
-</p>
-
-### 🔬 AI / ML & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,firebase,figma,appwrite,wordpress,postman" />
-</p>
-
-### 🛠️ Productivity Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,ubuntu,debian,replit,vercel,netlify,notion" />
+  <a href="mailto:prineraj14644@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/legcy143">GitHub</a>
 </p>
 
 ---
 
-## 🚀 Dev Impact & GitHub Stats
+## Just for Fun
 
-<!-- Custom Achievements Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-10+-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-Fullstack-blueviolet?style=for-the-badge&logo=stackshare" />
-  <img src="https://img.shields.io/badge/Contributions-500%2B-blue?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Tech%20Community%20Support-Active-orange?style=for-the-badge&logo=handshake" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legcy143&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakNum=ffffff" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legcy143&layout=donut&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" width="38%" />
+  <sub>Not everything has to be production-ready.</sub>
 </p>
 
-<!---  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legcy143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Prince%20Raj's%20GitHub%20Stats" width="56%" />
-</p>
--->
-
-
----
-
-## 🥳 Just for Fun — Party Parrot Army
-
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
-</p>
-
+<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
